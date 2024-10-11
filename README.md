@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**mkitzman/mkitzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Mike, I'm a highly accomplished Senior Front End Engineer experience contributing to world-class iconic websites that has served billions of users globally. I excel at crafting seamless user experiences and driving best practices in accessibility, design systems, and front-end innovation.
 
-Here are some ideas to get you started:
+### TECH STACK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Javascript Logo](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Typescript Logo](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3 Logo](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5 Logo](https://img.shields.io/badge/Html5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![Testing Library Logo](https://img.shields.io/badge/React%20Testing%20Library-F1C1Cb?style=for-the-badge&logo=testinglibrary&logocolor=D0584b)
+
+### OTHER 
+
+👩‍🦽 Accessibility, Responsive Web Design (RWD), Accessibility guidelines (WCAG 2.1), Mobile-First Development
+
+🤖 Jest, Enzyme, Chrome Dev Tools, Webpack, Babel, ESLint, Github, Github Actions, DataDog, Sentry, CI/CD
+
+🎨 Sass/SCSS, CSS-in-JS solutions (e.g., Styled Components), Atomic/Utility CSS (tailwind etc...)
+
+💨 Web Performance Optimization (WPO), PageSpeed Insights, Lighthouse
+
+### LINKS
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkitzman)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelkitzman/)
+[![Instagram](https://img.shields.io/badge/Instagram-f77737?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mikek_pa/)
+
+
+### Quotable
+
+> "If you don't like how things are, change it! You're not a tree." - Jim Rohn
+

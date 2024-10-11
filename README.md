@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi, I'm Mike 👋
 
 <img align="right" alt="GIF" height="260px" src="https://octodex.github.com/images/defunktocat.png" />
 
-My name's Mike, I'm a highly accomplished Senior Front End Engineer with experience contributing to **world-class iconic websites that have served billions of users globally**. I excel at crafting seamless user experiences and driving best practices in accessibility, design systems, and front-end innovation.
+I'm a highly accomplished Senior Front End Engineer with experience contributing to **world-class iconic websites that have served billions of users globally**. I excel at crafting seamless user experiences and driving best practices in accessibility, design systems, and front-end innovation.
 
 ### TECH STACK
 
@@ -11,7 +11,7 @@ My name's Mike, I'm a highly accomplished Senior Front End Engineer with experie
 ![Typescript Logo](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3 Logo](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5 Logo](https://img.shields.io/badge/Html5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![Testing Library Logo](https://img.shields.io/badge/React%20Testing%20Library-F1C1Cb?style=for-the-badge&logo=testinglibrary&logocolor=D0584b)
+![Testing Library Logo](https://img.shields.io/badge/React%20Testing%20Library-D0584b?style=for-the-badge&logo=testinglibrary&logoColor=FFFFFF)
 
 ### OTHER TECHNOLOGIES
 
@@ -22,6 +22,13 @@ My name's Mike, I'm a highly accomplished Senior Front End Engineer with experie
 🎨 Sass/SCSS, CSS-in-JS solutions (e.g., Styled Components), Atomic/Utility CSS (tailwind etc...)
 
 💨 Web Performance Optimization (WPO), PageSpeed Insights, Lighthouse
+
+### DEV TOOLS
+
+![Apple Logo](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Warp Logo](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=Warp&logoColor=ffffff)
+![Arc Logo](https://img.shields.io/badge/arc-FCBFBD?style=for-the-badge&logo=Arc&logoColor=000000)
+
 
 ### LINKS
 

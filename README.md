@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name's Mike, I'm a highly accomplished Senior Front End Engineer experience contributing to world-class iconic websites that has served billions of users globally. I excel at crafting seamless user experiences and driving best practices in accessibility, design systems, and front-end innovation.
+<img align="right" alt="GIF" height="260px" src="https://octodex.github.com/images/defunktocat.png" />
+
+My name's Mike, I'm a highly accomplished Senior Front End Engineer with experience contributing to **world-class iconic websites that have served billions of users globally**. I excel at crafting seamless user experiences and driving best practices in accessibility, design systems, and front-end innovation.
 
 ### TECH STACK
 
@@ -11,7 +13,7 @@ My name's Mike, I'm a highly accomplished Senior Front End Engineer experience c
 ![HTML5 Logo](https://img.shields.io/badge/Html5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![Testing Library Logo](https://img.shields.io/badge/React%20Testing%20Library-F1C1Cb?style=for-the-badge&logo=testinglibrary&logocolor=D0584b)
 
-### OTHER 
+### OTHER TECHNOLOGIES
 
 👩‍🦽 Accessibility, Responsive Web Design (RWD), Accessibility guidelines (WCAG 2.1), Mobile-First Development
 

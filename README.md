@@ -8,6 +8,7 @@ I'm a highly accomplished Senior Front End Engineer with experience contributing
 
 ![Javascript Logo](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Typescript Logo](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3 Logo](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5 Logo](https://img.shields.io/badge/Html5-E34C26?style=for-the-badge&logo=html5&logoColor=white)

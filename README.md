@@ -16,6 +16,8 @@ I'm a highly accomplished Senior Front End Engineer with experience contributing
 ![HTML5 Logo](https://img.shields.io/badge/Html5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript Logo](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 
 ### OTHER TECHNOLOGIES
@@ -24,7 +26,7 @@ I'm a highly accomplished Senior Front End Engineer with experience contributing
 
 🤖 React, Testing Library TypeScript, Jest, Enzyme, Chrome Dev Tools, Webpack, Babel, ESLint, Github, Github Actions, DataDog, Sentry, CI/CD
 
-🎨 Sass/SCSS, CSS-in-JS solutions (e.g., Styled Components), Atomic/Utility CSS (tailwind etc...)
+🎨 CSS-in-JS solutions (e.g., Styled Components), Atomic/Utility CSS (tailwind etc...)
 
 💨 Web Performance Optimization (WPO), PageSpeed Insights, Lighthouse
 

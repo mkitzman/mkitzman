@@ -1,6 +1,6 @@
 ## Hi, I'm Mike 👋
 
-<img align="right" alt="GIF" height="260px" src="https://octodex.github.com/images/defunktocat.png" />
+<img align="right" height="260px" alt="Octocat" src="https://github.com/user-attachments/assets/b974234e-960e-45ec-a429-820a2f6c7ee4" />
 
 I'm a highly accomplished Senior Front End Engineer with experience contributing to **world-class iconic websites that have served billions of users globally**. I excel at crafting seamless user experiences and driving best practices in accessibility, design systems, and front-end innovation.
 

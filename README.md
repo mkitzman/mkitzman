@@ -6,19 +6,23 @@ I'm a highly accomplished Senior Front End Engineer with experience contributing
 
 ### TECH STACK
 
-![Javascript Logo](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Typescript Logo](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3 Logo](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Vue Test Utils](https://img.shields.io/badge/Vue_Test_Utils-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5 Logo](https://img.shields.io/badge/Html5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![Testing Library Logo](https://img.shields.io/badge/React%20Testing%20Library-D0584b?style=for-the-badge&logo=testinglibrary&logoColor=FFFFFF)
+![Javascript Logo](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+
 
 ### OTHER TECHNOLOGIES
 
 👩‍🦽 Accessibility, Responsive Web Design (RWD), Accessibility guidelines (WCAG 2.1), Mobile-First Development
 
-🤖 Jest, Enzyme, Chrome Dev Tools, Webpack, Babel, ESLint, Github, Github Actions, DataDog, Sentry, CI/CD
+🤖 React, Testing Library TypeScript, Jest, Enzyme, Chrome Dev Tools, Webpack, Babel, ESLint, Github, Github Actions, DataDog, Sentry, CI/CD
 
 🎨 Sass/SCSS, CSS-in-JS solutions (e.g., Styled Components), Atomic/Utility CSS (tailwind etc...)
 

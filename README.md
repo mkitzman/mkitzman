@@ -46,5 +46,5 @@ I'm a highly accomplished Senior Front End Engineer with experience contributing
 
 ### Quotable
 
-> "If you don't like how things are, change it! You're not a tree." - Jim Rohn
+> "This present moment was once the unimaginable future" — Stewart Brand
 

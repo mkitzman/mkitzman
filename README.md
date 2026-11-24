@@ -8,7 +8,6 @@ I'm a highly accomplished Senior Front End Engineer with experience contributing
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Vue Test Utils](https://img.shields.io/badge/Vue_Test_Utils-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
